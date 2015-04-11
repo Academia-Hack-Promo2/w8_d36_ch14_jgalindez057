@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cuenta_destino: MyString
+  cuenta_origen: MyString
+  fecha: 2015-04-08
+  tipo_de_operacion: MyString
+  monto_operation: 1
+  client_id: 
+  account_id: 
+
+two:
+  cuenta_destino: MyString
+  cuenta_origen: MyString
+  fecha: 2015-04-08
+  tipo_de_operacion: MyString
+  monto_operation: 1
+  client_id: 
+  account_id: 

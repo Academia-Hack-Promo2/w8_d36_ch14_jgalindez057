@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero_de_cuenta: MyString
+  tipo_de_cuenta: MyString
+  monto: 1
+  client_id: 
+
+two:
+  numero_de_cuenta: MyString
+  tipo_de_cuenta: MyString
+  monto: 1
+  client_id: 
